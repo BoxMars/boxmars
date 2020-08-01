@@ -6,7 +6,7 @@
 
 ---
 ### Hi there 👋
-- 🔭 A student in UM major in Statistics and Data Science
+- 🔭 A student major in Statistics and Data Science in UM
 - 🤔 I am learning Python and JavaScript
 ### Welcome you to follow me  <a href=""><img src="https://img.shields.io/github/followers/boxmars?label=Follow&style=social" alt=""></a>
 ---
