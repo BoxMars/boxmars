@@ -20,11 +20,13 @@
     <a href="http://github.com/boxmars">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=boxmars&repo=vaughan">
     </a>
-  <a href="http://github.com/boxmars">
+  
+</p>
+<p align="center">
+<a href="http://github.com/boxmars">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxmars&layout=compact">
     </a>
-</p>
-
+    </p>
 <!--
 **BoxMars/boxmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
