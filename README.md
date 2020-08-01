@@ -11,18 +11,18 @@
 ### Welcome you to follow me  <a href=""><img src="https://img.shields.io/github/followers/boxmars?label=Follow&style=social" alt=""></a>
 ---
 ### Status
-<p align="center">
+<p >
     <a href="http://github.com/boxmars">
         <img src="https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true">
     </a>
 </p>
-<p align="center">
+<p >
     <a href="http://github.com/boxmars">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=boxmars&repo=vaughan">
     </a>
   
 </p>
-<p align="center">
+<p >
 <a href="http://github.com/boxmars">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxmars&layout=compact">
     </a>
