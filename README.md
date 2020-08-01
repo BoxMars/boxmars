@@ -1,13 +1,30 @@
+<p align="center">
+    <a href="http://github.com/boxmars">
+        <img src="https://github.com/BoxMars/boxmars/blob/master/logo.png?raw=true">
+    </a>
+</p>
+
+---
 ### Hi there 👋
-### 🌱 I’m currently learning ...
-- A student in UM major in Statistics and Data Science
-- I am learning Python and JavaScript
+- 🔭 A student in UM major in Statistics and Data Science
+- 🤔 I am learning Python and JavaScript
+### Welcome you to follow me  <a href=""><img src="https://img.shields.io/github/followers/boxmars?label=Follow&style=social" alt=""></a>
+---
 ### Status
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
----
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=boxmars&repo=vaughan)](https://github.com/anuraghazra/github-readme-stats)
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boxmars&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <a href="http://github.com/boxmars">
+        <img src="https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true">
+    </a>
+</p>
+<p align="center">
+    <a href="http://github.com/boxmars">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=boxmars&repo=vaughan">
+    </a>
+  <a href="http://github.com/boxmars">
+        <img src="github-readme-stats.vercel.app/api/top-langs/?username=boxmars&layout=compact">
+    </a>
+</p>
+
 <!--
 **BoxMars/boxmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
