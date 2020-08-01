@@ -21,7 +21,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=boxmars&repo=vaughan">
     </a>
   <a href="http://github.com/boxmars">
-        <img src="github-readme-stats.vercel.app/api/top-langs/?username=boxmars&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxmars&layout=compact">
     </a>
 </p>
 
