@@ -16,12 +16,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true">
     </a>
 </p>
-<p >
-    <a href="http://github.com/boxmars">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=boxmars&repo=vaughan">
-    </a>
-  
-</p>
+
 <p >
 <a href="http://github.com/boxmars">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxmars&layout=compact">
@@ -29,7 +24,12 @@
     </p>
 <!--
 **BoxMars/boxmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p >
+    <a href="http://github.com/boxmars">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=boxmars&repo=vaughan">
+    </a>
+  
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
