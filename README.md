@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning ...
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=boxmars)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=boxmars&repo=vaughan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boxmars&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **BoxMars/boxmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
