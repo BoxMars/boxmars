@@ -10,12 +10,13 @@
 - 🤔 I am learning Python and JavaScript
 ### Welcome you to follow me  <a href=""><img src="https://img.shields.io/github/followers/boxmars?label=Follow&style=social" alt=""></a>
 ---
-### Status
+|My Github Stats|Language|
 |-|-|
-|![Stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true)|![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=boxmars&layout=compact)
+|![Stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true)|![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=boxmars)
 
 
 <!--
+&layout=compact
 <p >
     <a href="http://github.com/boxmars">
         <img src="https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true">
