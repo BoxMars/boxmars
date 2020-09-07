@@ -6,11 +6,10 @@
 
 ---
 ### Hi there 👋
-- 💻 A student major in Statistics and Data Science in UM :🇲🇴 .
+- 💻 A student major in Statistics and Data Science in UM.
 - 📕 I am learning Python and JavaScript.
 - 🙃 No interest to learn JS.
-
-
+---
 - 👶 When I was a kid, I can speak Pascal fluently.
 - 😭 I have not used Pascal for nearly five years and almost forgot its syntax.
 - 👴 Maybe one day all I can remember is the name, Pascal.
