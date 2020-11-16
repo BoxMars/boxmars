@@ -8,8 +8,9 @@
 ### Hi there 👋
 - 🏫 A student major in Statistics and Data Science in Year I and 1st sem of Year II  in UM.
 - 💻 Major in Compute Science from 2nd sem of Year  II.
-- 📕 I am learning Python and JavaScript.
-- 🙃 No interest to learn JS.
+- 📕 I am learning Java and JavaScript.
+- 😴 And C++, maybe.
+- 🙃 No interest to learn JS and CPP.
 ---
 - 👶 When I was a kid, I can speak Pascal fluently.
 - 😭 I have not used Pascal for nearly five years and almost forgot its syntax.
