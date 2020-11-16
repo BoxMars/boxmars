@@ -6,7 +6,8 @@
 
 ---
 ### Hi there 👋
-- 💻 A student major in Statistics and Data Science in UM.
+- 💻 A student major in Statistics and Data Science in UM in Year I and 1st sem of Year II.
+- 💻 A student major in CS.
 - 📕 I am learning Python and JavaScript.
 - 🙃 No interest to learn JS.
 ---
