@@ -10,7 +10,7 @@
 - 💻 Compute Science from 2nd sem of Year  II.
 - 📕 I am learning Java and JavaScript.
 - 😴 And C++, maybe.
-- 🙃 No interest to learn JS and CPP.
+- 🙃 No interest in learning JS and CPP.
 ---
 - 👶 When I was a kid, I can speak Pascal fluently.
 - 😭 I have not used Pascal for nearly five years and almost forgot its syntax.
