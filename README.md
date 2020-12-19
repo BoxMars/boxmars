@@ -7,7 +7,7 @@
 ---
 ### Hi there 👋
 - 🏫 A student major in Statistics and Data Science in Year I and 1st sem of Year II  in UM.
-- 💻 Major in Compute Science from 2nd sem of Year  II.
+- 💻 Compute Science from 2nd sem of Year  II.
 - 📕 I am learning Java and JavaScript.
 - 😴 And C++, maybe.
 - 🙃 No interest to learn JS and CPP.
