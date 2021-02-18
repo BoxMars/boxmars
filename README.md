@@ -1,16 +1,19 @@
 <p align="center">
-    <a href="http://github.com/boxmars">
+    <a href="https://boxmars.life">
         <img src="https://github.com/BoxMars/boxmars/blob/master/logo.png?raw=true">
     </a>
 </p>
 
 ---
 ### Hi there 👋
+<!--
 - 🏫 A student major in Statistics and Data Science in Year I and 1st sem of Year II  in UM.
-- 💻 Compute Science from 2nd sem of Year  II.
-- 📕 I am learning Java and JavaScript.
+-->
+- 💻 A student major in Compute Science in University of Macau.
+- 📕 I am learning Java.
 - 😴 And C++, maybe.
 - 🙃 No interest in learning JS and CPP.
+- <a href="https://boxmars.life">🎉 Click here to visit my blog </a>
 ---
 - 👶 When I was a kid, I can speak Pascal fluently.
 - 😭 I have not used Pascal for nearly five years and almost forgot its syntax.
