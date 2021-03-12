@@ -13,7 +13,7 @@
 - 📕 I am learning Java.
 - 😴 And C++, maybe.
 - 🙃 No interest in learning JS and CPP.
-- <a href="https://boxmars.life">🎉 Click here to visit my blog </a>
+- <a href="https://boxz.dev">🎉 Click here to visit my blog </a>
 ---
 - 👶 When I was a kid, I can speak Pascal fluently.
 - 😭 I have not used Pascal for nearly five years and almost forgot its syntax.
