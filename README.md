@@ -10,9 +10,10 @@
 - 🏫 A student major in Statistics and Data Science in Year I and 1st sem of Year II  in UM.
 -->
 - 💻 A student major in Compute Science in University of Macau.
-- 📕 I am learning Java.
+- 📕 I am learning [Algorithms](https://github.com/BoxMars/Algorithms).
 - 😴 And C++, maybe.
-- 🙃 No interest in learning JS and CPP.
+<!--- 🙃 No interest in learning JS and CPP.
+-->
 - <a href="https://boxz.dev">🎉 Click here to visit my blog </a>
 ---
 - 👶 When I was a kid, I can speak Pascal fluently.
