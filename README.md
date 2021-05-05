@@ -1,12 +1,12 @@
-<p align="center">
+
+### Hi there 👋
+<!--<p align="center">
     <a href="https://boxmars.life">
         <img src="https://github.com/BoxMars/boxmars/blob/master/logo.png?raw=true">
     </a>
 </p>
 
 ---
-### Hi there 👋
-<!--
 - 🏫 A student major in Statistics and Data Science in Year I and 1st sem of Year II  in UM.
 -->
 - 💻 A student major in Compute Science in University of Macau.
