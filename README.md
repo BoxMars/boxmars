@@ -13,8 +13,6 @@
 - 📕 Learning [Algorithms](https://github.com/BoxMars/Algorithms).
 - 😴 And C++, maybe.
 - 🛴 [Resume](https://github.com/BoxMars/boxmars/raw/master/CV.pdf).
-<!--- 🙃 No interest in learning JS and CPP.
--->
 - 🎉 [Click here to visit my blog](https://boxz.dev)
 ---
 - 👶 When I was a kid, I can speak Pascal fluently.
