@@ -12,6 +12,7 @@
 - 💻 Compute Science in University of Macau.
 - 📕 Learning [Algorithms](https://github.com/BoxMars/Algorithms).
 - 😴 And C++, maybe.
+- 🛴 [Resume](https://github.com/BoxMars/boxmars/raw/master/CV.pdf).
 <!--- 🙃 No interest in learning JS and CPP.
 -->
 - <a href="https://boxz.dev">🎉 Click here to visit my blog </a>
