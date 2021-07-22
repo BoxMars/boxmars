@@ -15,7 +15,7 @@
 - 🛴 [Resume](https://github.com/BoxMars/boxmars/raw/master/CV.pdf).
 <!--- 🙃 No interest in learning JS and CPP.
 -->
-- <a href="https://boxz.dev">🎉 Click here to visit my blog </a>
+- 🎉 [Click here to visit my blog](https://boxz.dev)
 ---
 - 👶 When I was a kid, I can speak Pascal fluently.
 - 😭 I have not used Pascal for nearly five years and almost forgot its syntax.
