@@ -12,7 +12,7 @@
 - 💻 Compute Science in University of Macau.
 - 📕 Learning [Algorithms](https://github.com/BoxMars/Algorithms).
 - 😴 And C++, maybe.
-- 🛴 [Resume](https://github.com/BoxMars/boxmars/raw/master/CV.pdf).
+- 🛴 [Resume](https://github.com/BoxMars/boxmars/CV.pdf).
 - 🎉 [Click here to visit my blog](https://boxz.dev)
 ---
 - 👶 When I was a kid, I can speak Pascal fluently.
