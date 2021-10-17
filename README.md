@@ -1,9 +1,4 @@
 
-<p align="center">
-    <a href="https://boxmars.life">
-        <img src="https://github.com/BoxMars/boxmars/blob/master/logo.png?raw=true">
-    </a>
-</p>
 
 ### Hi there 👋
 ---
@@ -20,6 +15,12 @@
 
 
 <!--
+<p align="center">
+    <a href="https://boxmars.life">
+        <img src="https://github.com/BoxMars/boxmars/blob/master/logo.png?raw=true">
+    </a>
+</p>
+
 ---
 - 🛴 [Resume](https://github.com/BoxMars/boxmars/raw/master/CV.pdf).
 - 🎉 [Click here to visit my blog](https://boxz.dev)
