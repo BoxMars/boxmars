@@ -9,6 +9,9 @@
 - 📕 Learning [Algorithms](https://github.com/BoxMars/Algorithms).
 - 😴 And C++, maybe.
 
+|My Github Stats|Language|
+|-|-|
+|![Stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true)|![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=boxmars)
 
 
 
@@ -29,9 +32,6 @@
 - 😭 I have not used Pascal for nearly five years and almost forgot its syntax.
 - 👴 Maybe one day all I can remember is the name, Pascal.
 
-|My Github Stats|Language|
-|-|-|
-|![Stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true)|![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=boxmars)
 
 ### Welcome you to follow me  <a href=""><img src="https://img.shields.io/github/followers/boxmars?label=Follow&style=social" alt=""></a>
 &layout=compact
