@@ -13,6 +13,7 @@
 |-|-|
 |![Stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true)|![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=boxmars)
 
+GPG Public Key
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
