@@ -8,10 +8,7 @@
 - 💻 Compute Science in University of Macau.
 - 📕 Learning [Algorithms](https://github.com/BoxMars/Algorithms).
 - 😴 And C++, maybe.
-
-|My Github Stats|Language|
-|-|-|
-|![Stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true)|![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=boxmars)
+![Stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true)
 
 GPG Public Key
 ```
@@ -99,4 +96,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+|My Github Stats|Language|
+|-|-|
+|![Stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true)|![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=boxmars)
+
 -->
