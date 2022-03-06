@@ -1,16 +1,16 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/> -->
 
 ### Hi there 👋
 ---
-<h3> 👨🏻‍💻 About Me </h3>
+<!-- <h3> 👨🏻‍💻 About Me </h3> -->
 
 - 💻 &nbsp;Compute Science in University of Macau.
 - 📕 &nbsp;Learning [Algorithms](https://github.com/BoxMars/Algorithms).
 
-<h3>🛠 Tech Stack</h3>
+<!-- <h3>🛠 Tech Stack</h3> -->
 
-- 💻 &nbsp; Python  &nbsp; Java &nbsp; C++  
-- 🌐 &nbsp; Android &nbsp; Web Full-stack
+- 📡 &nbsp; Python  &nbsp; Java &nbsp; C++  
+- 🔮 &nbsp; Android &nbsp; Web Full-stack
 <!-- - 🔧 &nbsp; PyCharm &nbsp; Visual Studio code &nbsp; Git -->
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true) -->
