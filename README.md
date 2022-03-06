@@ -14,7 +14,7 @@
 <!-- - 🔧 &nbsp; PyCharm &nbsp; Visual Studio code &nbsp; Git -->
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true) -->
-
+---
 GPG Public Key
 ```
 AC38 AE27 3769 459B EB5D  BBAF B4B0 BC7B C3E4 4680
