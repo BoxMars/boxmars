@@ -1,17 +1,20 @@
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ### Hi there 👋
 ---
-<!--
-- 🏫 A student major in Statistics and Data Science in Year I and 1st sem of Year II  in UM.
--->
-- 💻 Compute Science in University of Macau.
-- 📕 Learning [Algorithms](https://github.com/BoxMars/Algorithms).
-- 😴 And C++, maybe.
+<h3> 👨🏻‍💻 About Me </h3>
 
+- 💻 &nbsp;Compute Science in University of Macau.
+- 📕 &nbsp;Learning [Algorithms](https://github.com/BoxMars/Algorithms).
 
+<h3>🛠 Tech Stack</h3>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true)
+- 💻 &nbsp; Python  &nbsp; Java &nbsp; C++  
+- 🌐 &nbsp; Android &nbsp; Web Full-stack (HTML &nbsp; CSS &nbsp; JavaScript)
+- 🔧 &nbsp; Android Studio &nbsp; PyCharm &nbsp; Visual Studio code &nbsp; Git
+- 🖥 &nbsp; Adobe Xd &nbsp; Illustrator &nbsp; Photoshop
+
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true) -->
 
 GPG Public Key
 ```
