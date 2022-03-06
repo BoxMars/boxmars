@@ -10,9 +10,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python  &nbsp; Java &nbsp; C++  
-- 🌐 &nbsp; Android &nbsp; Web Full-stack (HTML &nbsp; CSS &nbsp; JavaScript)
-- 🔧 &nbsp; Android Studio &nbsp; PyCharm &nbsp; Visual Studio code &nbsp; Git
-- 🖥 &nbsp; Adobe Xd &nbsp; Illustrator &nbsp; Photoshop
+- 🌐 &nbsp; Android &nbsp; Web Full-stack
+<!-- - 🔧 &nbsp; PyCharm &nbsp; Visual Studio code &nbsp; Git -->
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true) -->
 
