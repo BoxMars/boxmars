@@ -1,6 +1,3 @@
-Hi there,
-
----
 # Education
 
 Study Computer Science in University of Macau. Graduation in 2023
@@ -40,6 +37,7 @@ Language
 
 
 More about me: &nbsp;
+[Website](https://boxz.dev)&nbsp;
 [Résumé/ENG](https://github.com/BoxMars/boxmars/raw/master/CV.pdf)&nbsp;
 [Email](mailto:booxmaars@gmail.com)&nbsp;
 [Telegram](https://t.me/boxzhang)
