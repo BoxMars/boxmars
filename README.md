@@ -1,20 +1,57 @@
-<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/> -->
+<div style="box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;margin-top:30px;width:120px;height:120px; border-radius:100%;">
+    <img src=https://github.com/BoxMars/boxmars/raw/master/logo.png style="border-style:none;"/>
+</div>
 
-### Hi there 👋
----
-<!-- <h3> 👨🏻‍💻 About Me </h3> -->
 
-- 💻 &nbsp;Compute Science in University of Macau.
-- 📕 &nbsp;Learning [Algorithms](https://github.com/BoxMars/Algorithms).
+# Education
 
-<!-- <h3>🛠 Tech Stack</h3> -->
+Study Computer Science in University of Macau. Graduation in 2023
 
-- 📡 &nbsp; Python  &nbsp; Java &nbsp; C++  
-- 🔮 &nbsp; Android &nbsp; Web Full-stack
-<!-- - 🔧 &nbsp; PyCharm &nbsp; Visual Studio code &nbsp; Git -->
+**Looking for CS-related research opportunity.** &nbsp;[Email](mailto:booxmaars@gmail.com)
 
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true) -->
----
+# Work Experience
+
+**I** am a **Research Assistant** at *Educational Research Centre, FED* in University of Macau since *March 2022*, focus on:
+- Big Data Analysis
+- Internet Public Opinion Analysis, 
+
+and a **Machine Learning Engineer Intern** at [Fitlab.ai](https://www.fit-lab.ai/) in Shenzhen since *September 2021*, focus on:
+- Hardware Video Codec
+- Synchronization of Multiple Video Streams
+
+# Project
+**I** am leading or participating in several software development group in university, and
+
+founder/ full-stack developer of [UMHelper](https://github.com/UMHelper). We have built a wonderful course review platform named [What2Reg @UM](https://umeh.top) and setup a forum named [Whole @UM](https://umbbs.xyz).
+
+# Skill
+Programming
+- Python
+- Java
+- Web Fullstack
+
+Research
+- Machine Learning
+- Edge Computer
+- Data Analysis
+
+Language
+- Chinese Mandarin
+- English
+
+
+
+More about me: &nbsp;
+[Résumé/ENG](https://github.com/BoxMars/boxmars/raw/master/CV.pdf)&nbsp;
+[Email](mailto:booxmaars@gmail.com)&nbsp;
+[Telegram](https://t.me/boxzhang)
+
+
+|My Github Stats|Language|
+|-|-|
+|![Stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true)|![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=boxmars)
+
+
 GPG Public Key
 ```
 AC38 AE27 3769 459B EB5D  BBAF B4B0 BC7B C3E4 4680
@@ -53,56 +90,3 @@ w6WFLj8=
 -----END PGP PUBLIC KEY BLOCK-----
 
 ```
-
-
-<!--
-<p align="center">
-    <a href="https://boxmars.life">
-        <img src="https://github.com/BoxMars/boxmars/blob/master/logo.png?raw=true">
-    </a>
-</p>
-
----
-- 🛴 [Resume](https://github.com/BoxMars/boxmars/raw/master/CV.pdf).
-- 🎉 [Click here to visit my blog](https://boxz.dev)
----
-- 👶 When I was a kid, I can speak Pascal fluently.
-- 😭 I have not used Pascal for nearly five years and almost forgot its syntax.
-- 👴 Maybe one day all I can remember is the name, Pascal.
-
-
-### Welcome you to follow me  <a href=""><img src="https://img.shields.io/github/followers/boxmars?label=Follow&style=social" alt=""></a>
-&layout=compact
-<p >
-    <a href="http://github.com/boxmars">
-        <img src="https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true">
-    </a>
-</p>
-
-<p >
-<a href="http://github.com/boxmars">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxmars&layout=compact">
-    </a>
-    </p>
-**BoxMars/boxmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p >
-    <a href="http://github.com/boxmars">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=boxmars&repo=vaughan">
-    </a>
-  
-</p>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-|My Github Stats|Language|
-|-|-|
-|![Stats](https://github-readme-stats.vercel.app/api?username=boxmars&show_icons=true)|![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=boxmars)
-
--->
