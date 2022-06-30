@@ -1,8 +1,6 @@
-<div style="box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;margin-top:30px;width:120px;height:120px; border-radius:100%;">
-    <img src=https://github.com/BoxMars/boxmars/raw/master/logo.png style="border-style:none;"/>
-</div>
+Hi there,
 
-
+---
 # Education
 
 Study Computer Science in University of Macau. Graduation in 2023
