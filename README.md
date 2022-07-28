@@ -2,7 +2,7 @@
 
 Study Computer Science in University of Macau. Graduation in 2023
 
-**Looking for CS-related research opportunity.** &nbsp;[Email](mailto:booxmaars@gmail.com)
+**Looking for CS-related research opportunity.** &nbsp;[Email](mailto:me@bozx.dev)
 
 # Work Experience
 
@@ -39,7 +39,7 @@ Language
 More about me: &nbsp;
 [Website](https://boxz.dev)&nbsp;
 [Résumé/ENG](https://github.com/BoxMars/boxmars/raw/master/CV.pdf)&nbsp;
-[Email](mailto:booxmaars@gmail.com)&nbsp;
+[Email](mailto:me@boxz.dev)&nbsp;
 [Telegram](https://t.me/boxzhang)
 
 ---
